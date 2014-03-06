@@ -4,7 +4,7 @@ public class Krava implements GlasanjeZivotinje {
 
 	@Override
 	public String getGlas() {
-		return "Muuuuu";
+		return "Muuuuu, muuuuuu";
 	}
 	
 	
